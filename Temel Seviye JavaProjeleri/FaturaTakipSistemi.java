@@ -1,3 +1,16 @@
+# Dosya Yapısı
+# FaturaTakipSistemi/
+#│
+#├── FaturaTakipSistemi.java
+#├── musteriler.txt
+#├── urunler.txt
+#├── faturalar.txt
+#└── README.md
+
+
+
+
+
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;
