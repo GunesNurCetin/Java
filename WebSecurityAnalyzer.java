@@ -7,7 +7,7 @@
  * açıklarını raporlar. Web protokolleri ve siber güvenlik denetimi için tasarlanmıştır.
  * * ÖZELLİKLER (TR):
  * 1. Protocol Analysis: Hedef URL üzerinden HTTP/HTTPS yanıt başlıklarını çekme.
- * 2. Security Audit: X-Frame-Options, HSTS ve Server bilgisi gibi kritik verileri denetleme.
+ * 2. Security Audit: X-Frame-Options, HSTS ve Server bilgisi gibi kritik verileri denetleme. 
  * 3. Risk Assessment: Eksik güvenlik başlıklarını kullanıcıya uyarı olarak sunma.
  * * KEY JAVA FEATURES (EN):
  * - HttpURLConnection: High-level networking for web requests.
