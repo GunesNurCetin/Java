@@ -1,3 +1,9 @@
+
+## 📬 İletişim
+gmail: gunesnurcetin1@gmail.com
+- **GitHub:** [@GunesNurCetin](https://github.com/GunesNurCetin) 
+## 📁 Proje Klasörleri
+
 # Java
 Java Projeleri (Temel Orta İleri Seviye)
 # ☕ Java Projeleri Arşivi
@@ -7,9 +13,6 @@ Bu depo, Java ekosisteminde geliştirdiğim farklı seviyelerdeki projeleri ve t
 
 Bu depo, Java ekosisteminde geliştirdiğim farklı seviyelerdeki projeleri ve temel programlama çalışmalarımı içermektedir.
 
----
-
-## 📁 Proje Klasörleri
 
 ### 🚀 01 Backend Systems
 *Kütüphane yönetimi, sipariş sistemleri ve finans takip araçları gibi işlevsel backend projeleri.*
@@ -35,9 +38,6 @@ Bu depo, Java ekosisteminde geliştirdiğim farklı seviyelerdeki projeleri ve t
 
 ---
 
-## 📬 İletişim
-gmail: gunesnurcetin1@gmail.com
-- **GitHub:** [@GunesNurCetin](https://github.com/GunesNurCetin)
 ---
 
 ## 📁 Proje Klasörleri
