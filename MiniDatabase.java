@@ -12,7 +12,7 @@
  * * KEY JAVA FEATURES (EN):
  * - File Persistence: Managing data storage with BufferedWriter/BufferedReader.
  * - Hash Map Integration: Fast in-memory access during runtime.
- * - Exception Management: Robust handling for file missing or corrupt data cases.
+ * - Exception Management: Robust handling for file missing or corrupt data cases..
  *******************************************************************************/
 
 import java.io.*;
