@@ -10,7 +10,7 @@
  * 2. Connection Timeout: Yanıt vermeyen portlar için akıllı bekleme süresi yönetimi.
  * 3. Status Reporting: Sadece aktif ve erişilebilir portları raporlar.
  * * KEY JAVA FEATURES (EN):
- * - Socket Networking: Attempting connections via java.net.Socket.
+ * - Socket Networking: Attempting connections via java.net.Socket..
  * - Exception Handling: Managing connection timeouts and unreachable hosts.
  * - Loop Optimization: Efficiently iterating through thousands of potential ports.
  *******************************************************************************/
